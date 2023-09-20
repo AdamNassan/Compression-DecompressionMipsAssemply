@@ -1,0 +1,23 @@
+0000 We
+0001 
+0002 are
+0003 studying
+0004 computer
+0005 architecture
+0006 .
+0007 Computer
+0008 is
+0009 an
+000A important
+000B course
+000C in
+000D engineering
+000E In
+000F this
+0010 ,
+0011 studding
+0012 \n
+0013 we
+0014 many
+0015 useful
+0016 topics
